@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rails-angularjs2 (2.0.0.pre.alpha.28)
+    rails-angularjs2 (2.0.0.pre.alpha.30)
 
 GEM
   remote: https://rubygems.org/
