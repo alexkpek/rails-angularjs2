@@ -16,8 +16,8 @@ For minified version just add .min to file name:
 
     //= require angular2.min
 
-This gem contains following [files](https://code.angularjs.org/2.0.0-alpha.31/)
+This gem contains following [files](https://code.angularjs.org/2.0.0-beta.7/)
 
 ## Versioning
 
-Current AngularJS version: 2.0.0-alpha.31
+Current AngularJS version: 2.0.0-beta.7
